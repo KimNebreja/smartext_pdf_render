@@ -1,0 +1,9 @@
+flask
+flask-cors
+werkzeug
+pdf2docx
+language-tool-python
+python-docx
+gunicorn
+reportlab
+PyMuPDF
